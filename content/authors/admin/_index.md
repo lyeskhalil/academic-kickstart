@@ -25,6 +25,7 @@ interests:
 - Discrete Optimization
 - Machine Learning
 - Artificial Intelligence
+- Integer Programming
 - Operations Research
 
 education:
