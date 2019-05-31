@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Elias Khalil
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D.
+#Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include discrete optimization and machine learning.
 
 interests:
+- Discrete Optimization
+- Machine Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Operations Research
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D. in Computational Science & Engineering
+    institution: Georgia Tech
+    year: 2019
+  - course: M.S. in Computer Science
+    institution: Georgia Tech
+    year: 2014
+  - course: B.S. in Computer Science
+    institution: American University of Beirut
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:elias.khalil@live.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/lyeskhalil
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=juqDWQMAAAAJ&hl=en
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +67,13 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests are in the areas of <b>machine learning</b> and <b>discrete optimization</b>.</p>
+    <p>In particular, my goal is to <b>improve discrete optimization solvers and algorithms by using machine learning</b>.</p><p>Recently, I have been also working on <b>discrete problems that arise in deep learning</b>, where continuous optimization methods fail and combinatorial algorithms are more natural.</p>
+		<!-- <p>Particularly, I work on theoretical foundations and scalable algorithms for stochastic processes on networks.</p> -->
+		<p>I did my Ph.D. in <a href="http://cse.gatech.edu" target="_blank">Computational Science and Engineering</a> at <a href="http://gatech.edu/" target="_blank">Georgia Tech</a>, where I worked with <a href="http://www.cc.gatech.edu/~bdilkina" target="_blank">Bistra Dilkina</a>, and collaborated closely with <a href="http://www2.isye.gatech.edu/~gnemhaus/" target="_blank">George Nemhauser</a>.</p> 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
