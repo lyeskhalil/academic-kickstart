@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elias B. Khalil on Elias Khalil</title>
+    <link>/authors/elias-b.-khalil/</link>
+    <description>Recent content in Elias B. Khalil on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/elias-b.-khalil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combinatorial Attacks on Binarized Neural Networks</title>
+      <link>/publication/kha-gup-dil-18/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-gup-dil-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of private autonomous vehicles on vehicle ownership and unoccupied VMT generation</title>
+      <link>/publication/zha-sub-kha-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/zha-sub-kha-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CP-ORTHO: An Orthogonal Tensor Factorization Framework for Spatio-Temporal Data</title>
+      <link>/publication/afs-ho-diletal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/afs-ho-diletal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake News Mitigation via Point Process Based Intervention</title>
+      <link>/publication/far-yan-yeetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/far-yan-yeetal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Combinatorial Optimization Algorithms over Graphs</title>
+      <link>/publication/dai-kha-yuyetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/dai-kha-yuyetal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Feature Engineering for Classification</title>
+      <link>/publication/nar-sam-khuetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/nar-sam-khuetal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Run Heuristics in Tree Search</title>
+      <link>/publication/kha-dil-nemetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-nemetal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Graph Snapshots from Streaming Edge Data (Poster)</title>
+      <link>/publication/sou-tam-khaetal-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sou-tam-khaetal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Branch in Mixed Integer Programming</title>
+      <link>/publication/kha-bod-son-nem-dil-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-bod-son-nem-dil-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Integer Programming</title>
+      <link>/publication/khalil-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/khalil-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing the Structure of Diffusion Networks: Theory and Algorithms</title>
+      <link>/publication/khalil-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/khalil-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Scale Insider Trading Analysis: Patterns and Discoveries</title>
+      <link>/publication/tam-kha-xie-lenetal-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tam-kha-xie-lenetal-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Diffusion-Aware Optimization of Network Topology</title>
+      <link>/publication/kha-dil-son-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-son-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CuttingEdge: Influence minimization in networks</title>
+      <link>/publication/kha-dil-son-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-son-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

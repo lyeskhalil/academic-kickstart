@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supermodularity on Elias Khalil</title>
+    <link>/tags/supermodularity/</link>
+    <description>Recent content in supermodularity on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/supermodularity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimizing the Structure of Diffusion Networks: Theory and Algorithms</title>
+      <link>/publication/khalil-14/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/khalil-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Diffusion-Aware Optimization of Network Topology</title>
+      <link>/publication/kha-dil-son-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-son-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CuttingEdge: Influence minimization in networks</title>
+      <link>/publication/kha-dil-son-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-son-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

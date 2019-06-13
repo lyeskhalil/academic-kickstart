@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuang Li on Elias Khalil</title>
+    <link>/authors/shuang-li/</link>
+    <description>Recent content in Shuang Li on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/shuang-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fake News Mitigation via Point Process Based Intervention</title>
+      <link>/publication/far-yan-yeetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/far-yan-yeetal-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Elias Khalil</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The impact of private autonomous vehicles on vehicle ownership and unoccupied VMT generation</title>
+      <link>/publication/zha-sub-kha-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/zha-sub-kha-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake News Mitigation via Point Process Based Intervention</title>
+      <link>/publication/far-yan-yeetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/far-yan-yeetal-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

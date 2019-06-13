@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elias Khalil</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>Create a beautifully simple website in under 10 minutes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>My research interests are in the areas of machine learning and discrete optimization.
+In particular, my goal is to improve discrete optimization solvers and algorithms by using machine learning.
+Recently, I have been also working on discrete problems that arise in deep learning, where continuous optimization methods fail and combinatorial algorithms are more natural.
+Particularly, I work on theoretical foundations and scalable algorithms for stochastic processes on networks.
+-- I did my Ph.</description>
+    </item>
+    
+  </channel>
+</rss>

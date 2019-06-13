@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Le Bodic on Elias Khalil</title>
+    <link>/authors/pierre-le-bodic/</link>
+    <description>Recent content in Pierre Le Bodic on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/pierre-le-bodic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Branch in Mixed Integer Programming</title>
+      <link>/publication/kha-bod-son-nem-dil-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-bod-son-nem-dil-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

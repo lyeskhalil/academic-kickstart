@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Elias Khalil</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>My research interests are in the areas of machine learning and discrete optimization.
+In particular, my goal is to improve discrete optimization solvers and algorithms by using machine learning.
+Recently, I have been also working on discrete problems that arise in deep learning, where continuous optimization methods fail and combinatorial algorithms are more natural.
+Particularly, I work on theoretical foundations and scalable algorithms for stochastic processes on networks.
+-- I did my Ph.</description>
+    </item>
+    
+    <item>
+      <title>Amrita Gupta</title>
+      <link>/authors/amrita-gupta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/amrita-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bistra Dilkina</title>
+      <link>/authors/bistra-dilkina/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bistra-dilkina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elias B. Khalil</title>
+      <link>/authors/elias-b.-khalil/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/elias-b.-khalil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subhrajit Guhathakurta</title>
+      <link>/authors/subhrajit-guhathakurta/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/subhrajit-guhathakurta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenwen Zhang</title>
+      <link>/authors/wenwen-zhang/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/wenwen-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ardavan Afshar</title>
+      <link>/authors/ardavan-afshar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ardavan-afshar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepak Turaga</title>
+      <link>/authors/deepak-turaga/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/deepak-turaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fatemeh Nargesian</title>
+      <link>/authors/fatemeh-nargesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/fatemeh-nargesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>George Nemhauser</title>
+      <link>/authors/george-nemhauser/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/george-nemhauser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanjun Dai</title>
+      <link>/authors/hanjun-dai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hanjun-dai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongyuan Zha</title>
+      <link>/authors/hongyuan-zha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hongyuan-zha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horst Samulowitz</title>
+      <link>/authors/horst-samulowitz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/horst-samulowitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huan Xu</title>
+      <link>/authors/huan-xu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/huan-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ioakeim Perros</title>
+      <link>/authors/ioakeim-perros/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ioakeim-perros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiachen Yang</title>
+      <link>/authors/jiachen-yang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jiachen-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joyce C. Ho</title>
+      <link>/authors/joyce-c.-ho/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/joyce-c.-ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Song</title>
+      <link>/authors/le-song/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/le-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li Xiong</title>
+      <link>/authors/li-xiong/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/li-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehrdad Farajtabar</title>
+      <link>/authors/mehrdad-farajtabar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mehrdad-farajtabar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakshit Trivedi</title>
+      <link>/authors/rakshit-trivedi/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rakshit-trivedi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shabbir Ahmed</title>
+      <link>/authors/shabbir-ahmed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shabbir-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuang Li</title>
+      <link>/authors/shuang-li/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shuang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udayan Khurana</title>
+      <link>/authors/udayan-khurana/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/udayan-khurana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaidy Sunderam</title>
+      <link>/authors/vaidy-sunderam/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/vaidy-sunderam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaojing Ye</title>
+      <link>/authors/xiaojing-ye/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/xiaojing-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yufen Shao</title>
+      <link>/authors/yufen-shao/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yufen-shao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuyu Zhang</title>
+      <link>/authors/yuyu-zhang/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yuyu-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acar Tamersoy</title>
+      <link>/authors/acar-tamersoy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/acar-tamersoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Gallagher</title>
+      <link>/authors/brian-gallagher/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/brian-gallagher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duen Horng Chau</title>
+      <link>/authors/duen-horng-chau/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/duen-horng-chau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Roundy</title>
+      <link>/authors/kevin-roundy/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kevin-roundy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pierre Le Bodic</title>
+      <link>/authors/pierre-le-bodic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/pierre-le-bodic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sucheta Soundarajan</title>
+      <link>/authors/sucheta-soundarajan/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sucheta-soundarajan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tina Eliassi-Rad</title>
+      <link>/authors/tina-eliassi-rad/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/tina-eliassi-rad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Xie</title>
+      <link>/authors/bo-xie/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bo-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Routledge</title>
+      <link>/authors/bryan-routledge/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bryan-routledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shamkant Navathe</title>
+      <link>/authors/shamkant-navathe/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/shamkant-navathe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Lenkey</title>
+      <link>/authors/stephen-lenkey/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/stephen-lenkey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

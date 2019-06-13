@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>integer programming on Elias Khalil</title>
+    <link>/tags/integer-programming/</link>
+    <description>Recent content in integer programming on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/integer-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combinatorial Attacks on Binarized Neural Networks</title>
+      <link>/publication/kha-gup-dil-18/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-gup-dil-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Run Heuristics in Tree Search</title>
+      <link>/publication/kha-dil-nemetal-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-dil-nemetal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Branch in Mixed Integer Programming</title>
+      <link>/publication/kha-bod-son-nem-dil-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/kha-bod-son-nem-dil-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Integer Programming</title>
+      <link>/publication/khalil-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/khalil-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

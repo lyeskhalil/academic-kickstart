@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Xie on Elias Khalil</title>
+    <link>/authors/bo-xie/</link>
+    <description>Recent content in Bo Xie on Elias Khalil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/authors/bo-xie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large Scale Insider Trading Analysis: Patterns and Discoveries</title>
+      <link>/publication/tam-kha-xie-lenetal-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/tam-kha-xie-lenetal-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
